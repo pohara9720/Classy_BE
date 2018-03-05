@@ -1,0 +1,29 @@
+{
+  "name": "Classy_BE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohara9720/Classy_BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohara9720/Classy_BE/issues"
+  },
+  "homepage": "https://github.com/pohara9720/Classy_BE#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.8",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  }
+}
